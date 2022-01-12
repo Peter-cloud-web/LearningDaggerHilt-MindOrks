@@ -1,4 +1,4 @@
-package com.example.learningdaggerhilt.di.module
+package com.example.learningdaggerhilt.data.model
 
 import com.squareup.moshi.Json
 

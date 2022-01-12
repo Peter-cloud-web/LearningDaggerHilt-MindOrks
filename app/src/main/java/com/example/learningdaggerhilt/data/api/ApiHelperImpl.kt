@@ -1,6 +1,6 @@
 package com.example.learningdaggerhilt.data.api
 
-import com.example.learningdaggerhilt.di.module.User
+import com.example.learningdaggerhilt.data.model.User
 import retrofit2.Response
 import javax.inject.Inject
 
